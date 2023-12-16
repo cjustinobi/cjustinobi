@@ -1,16 +1,43 @@
-### Hi there 👋
+### Brief about me
+👋 Hi, I'm Justin Obi. I am a Blockchain/Software Engineer and Technical writer from Nigeria. I am currently exploring Cloud & DevOps.
 
-<!--
-**cjustinobi/cjustinobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration.
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cjustinobi&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web3 Tools & Technologies
+
+- Solidity/EVM
+- Flow Cadence
+- Chainlink
+- Alchemy, QuickNode
+- IPFS/Pinata
+
+### Web2 Technologies & Frameworks
+
+- JavaScript
+- TypeScript
+- PHP
+- Nextjs
+- Nuxtjs
+- Nestjs
+- Laravel
+- MySql
+- Postgres
+
+### My Technical Writing Contents
+
+I occasionally write about my experiences and insights. Check out some of my blog posts:
+
+- [Medium post](https://cjustinobi.medium.com/)
+- [Celo Academy](https://celo.academy/u/cjustinobi/)
+
+### Get in Touch
+
+Feel free to reach out to me. I'm always open to collaboration and new opportunities.
+
+- 📧 Email: [cjustinobi@gmail.com](mailto:cjustinobi@gmail.com)
+- 💬 Twitter: [@cjustinobi](https://twitter.com/cjustinobi)
+- 🤝 LinkedIn: [@cjustinobi](https://linkedin.com/in/cjustinobi)
+
+Let's connect and build something amazing together!
