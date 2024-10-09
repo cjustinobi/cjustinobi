@@ -7,7 +7,8 @@ I want to collaborate on any great idea that can be developed with tech. I am op
 
 ### Web3 Tools & Technologies
 
-- Solidity/EVM
+- Rust/Anchor
+- Solidity
 - Flow Cadence
 - Chainlink
 - Alchemy, QuickNode
