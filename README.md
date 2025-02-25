@@ -1,5 +1,5 @@
 ### Brief about me
-👋 Hi, I'm Justin Obi. I am a Blockchain/Software Engineer and Technical writer from Nigeria. I am currently exploring Cloud & DevOps.
+👋 Hi, I'm Justin Obi. I am a Blockchain/Software Engineer from Nigeria. I am currently exploring Cloud & DevOps.
 
 I want to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration.
 
@@ -10,9 +10,6 @@ I want to collaborate on any great idea that can be developed with tech. I am op
 - Rust/Anchor
 - Solidity
 - Flow Cadence
-- Chainlink
-- Alchemy, QuickNode
-- IPFS/Pinata
 
 ### Web2 Technologies & Frameworks
 
@@ -30,6 +27,7 @@ I want to collaborate on any great idea that can be developed with tech. I am op
 
 I occasionally write about my experiences and insights. Check out some of my blog posts:
 
+- [HackMd](https://hackmd.io/@cjustinobi)
 - [Medium post](https://cjustinobi.medium.com/)
 - [Celo Academy](https://celo.academy/u/cjustinobi/)
 
