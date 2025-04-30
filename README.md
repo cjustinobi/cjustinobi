@@ -1,5 +1,5 @@
 ### Brief about me
-👋 Hi, I'm Justin Obi. I am a Blockchain/Software Engineer from Nigeria. I am currently exploring Ethereum protocol.
+👋 Hi, I'm Justin Obi. I am a Blockchain/Software Engineer. I am currently exploring Ethereum protocol.
 
 I am open to business partnership and collaboration on software projects.
 
